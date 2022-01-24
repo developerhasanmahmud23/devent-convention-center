@@ -1,0 +1,30 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    margin:0px;
+    padding:0px;
+    
+}
+p{
+    font-size: 15px;
+}
+
+.image-slider{
+    margin-bottom: 100px;
+}
+
+.packages{
+    margin-bottom: 100px;
+}
+
+.latest-events{
+    margin-bottom: 100px;
+}
+
+.faq-section{
+    margin-bottom: 100px;
+}
+
+small{
+    font-size: 10px;
+}
+
